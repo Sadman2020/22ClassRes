@@ -1,0 +1,289 @@
+img {
+    max-width: 100%;
+}
+
+p {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Header Section */
+.header-img img {
+    width: 90px;
+}
+
+/* Banner Section */
+.banner {
+    background: #f9f9ff;
+}
+
+.banner .banner-info {
+  height: 90vh
+}
+
+.banner .banner-info h1 {
+    font-size: 35px;
+    line-height: 60px;
+}
+
+.banner .banner-info p {
+    margin-bottom: 25px;
+}
+
+.banner .banner-btn {
+    background: #8490ff;
+    outline: none;
+    border: none;
+    color: #fff;
+}
+
+/* About Section */
+.about .about-info {
+    margin-left: -100px;
+}
+
+.about .about-info h1 {
+    font-size: 35px;
+    line-height: 60px;
+}
+
+.about .about-info p {
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.about .about-btn {
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #8490ff;
+}
+
+/* number counter  */
+.number-counter {
+    background: #8490ff;
+    color: #fff;
+}
+
+.number-counter .pp {
+    font-size: 2.3rem;
+    line-height: 1.1;
+    font-weight: bold;
+}
+
+.number-counter .ppp {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-weight: 500;
+    padding-top: 8px;
+    letter-spacing: normal;
+}
+
+/* number counter  */
+
+/* Table section start */
+.table {
+    background: #f9f9ff;
+}
+
+.table .title h1 {
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.table .title p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.table .table-item {
+    background: #fff;
+    padding: 40px 20px;
+    margin-left: 20px;
+}
+
+.table .table-item span {
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+    background: #f9f9ff;
+    border-radius: 50%;
+    font-weight: 600;
+}
+
+.table .table-item h6 {
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.table .table-item p {
+    line-height: 70px;
+    color: #666;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.table .table-btn {
+    color: #8490ff;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 12px 35px;
+    border: 1px solid #8490ff;
+    box-shadow: 0px 0 15px 0 #8490ff;
+    transition: .4s;
+}
+
+.table .table-btn:hover {
+    color: #fff;
+    background: #8490ff;
+    outline: none;
+    border: 1px solid transparent;
+
+}
+
+/* Table section end */
+
+
+/* testimonial section start  */
+
+
+
+.testimonial-sec h1 {
+    font-size: 2.8rem;
+    line-height: 1.4;
+    font-weight: 400;
+}
+
+.testimonial-sec h5 {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #767676;
+}
+
+.testimonial-sec .icon {
+    display: inline-block;
+    /* left: 141%; */
+    transform: translateX(-50%);
+    /* top: -140px; */
+    font-size: 6.5rem;
+    color: #cccccc;
+    opacity: 0.3;
+
+    margin-left: 125px;
+}
+
+.author-info {
+    width: 250px;
+    margin: auto;
+}
+
+.author-details h5 {
+    color: #000;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    font-weight: 500;
+
+}
+
+.author-info img {
+    width: 85px;
+    margin-right: 18px;
+}
+
+.author-details {
+    text-align: left;
+    top: 13px;
+    /* border: 1px solid red; */
+    position: relative;
+}
+
+.author-details p {
+    font-size: 1.1rem;
+    line-height: 1.4;
+    font-weight: 400;
+    color: #767676;
+}
+
+/* testimonial section end  */
+
+
+/* team section start */
+
+
+.card-body {
+    font-weight: 600;
+}
+
+
+.team-item .card img {
+    width: 185px;
+    margin-top: -50px;
+    padding: 0 20px 10px 0;
+}
+
+.bu-btn a {
+    font-size: 1rem;
+    font-weight: 600;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64, 87, 191, 0.2);
+    padding: 0.5rem 1rem;
+    background: #fff;
+    color: #000;
+    border-color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.bu-btn a:hover {
+    color: #fff;
+    border-radius: 6px;
+    background-color: #465052;
+}
+
+/* team section end */
+
+
+/* contact Section */
+
+.contact {
+    background: #f9f9ff;
+}
+
+.contact .title p {
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.contact .title h1 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.contact .contact-info {
+    margin: 70px 0 0 25px;
+}
+
+.contact .contact-info h3 {
+    font-weight: 600;
+
+}
+
+.contact .contact-info h5 {
+    line-height: 40px;
+}
+.contact-btn{
+    background: #17a2b8;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-weight: 500;
+}
